@@ -1,0 +1,14 @@
+C:\Users\Abdul\Documents\GitHub\RestApp\RestAppV1\RestAppV1\RestAppV1\bin\Debug\RestAppV1.dll
+C:\Users\Abdul\Documents\GitHub\RestApp\RestAppV1\RestAppV1\RestAppV1\bin\Debug\RestAppV1.pdb
+C:\Users\Abdul\Documents\GitHub\RestApp\RestAppV1\RestAppV1\RestAppV1\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Abdul\Documents\GitHub\RestApp\RestAppV1\RestAppV1\RestAppV1\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Abdul\Documents\GitHub\RestApp\RestAppV1\RestAppV1\RestAppV1\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Abdul\Documents\GitHub\RestApp\RestAppV1\RestAppV1\RestAppV1\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Abdul\Documents\GitHub\RestApp\RestAppV1\RestAppV1\RestAppV1\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Abdul\Documents\GitHub\RestApp\RestAppV1\RestAppV1\RestAppV1\obj\Debug\RestAppV1.csprojResolveAssemblyReference.cache
+C:\Users\Abdul\Documents\GitHub\RestApp\RestAppV1\RestAppV1\RestAppV1\obj\Debug\RestAppV1.dll
+C:\Users\Abdul\Documents\GitHub\RestApp\RestAppV1\RestAppV1\RestAppV1\obj\Debug\RestAppV1.pdb
+C:\Users\Abdul\Documents\GitHub\RestApp\RestAppV1\RestAppV1\RestAppV1\obj\Debug\RestAppV1.dll.mdb
+C:\Users\Abdul\Documents\GitHub\RestApp\RestAppV1\RestAppV1\RestAppV1\bin\Debug\RestAppV1.dll.mdb
+C:\Users\Abdul\Documents\GitHub\RestApp\RestAppV1\RestAppV1\RestAppV1\obj\Debug\RestAppV1.dll.mdb
+C:\Users\Abdul\Documents\GitHub\RestApp\RestAppV1\RestAppV1\RestAppV1\bin\Debug\RestAppV1.dll.mdb
